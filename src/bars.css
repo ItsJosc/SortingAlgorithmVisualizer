@@ -1,0 +1,19 @@
+.bars-container {
+    background-color: white;
+    height: 80vh;
+    width: 100%;
+    border: 2px solid red;
+}
+
+.bar {
+    background-color: rgb(54, 56, 56);
+    width: 1%;
+    height: 80%;
+    margin: 2px;
+    padding: 2px;
+    display: inline-block;
+}
+
+.bar:hover {
+    background-color: gold;
+}
